@@ -16,9 +16,11 @@ $ git clone git@github.com:eYs3D/eys3d_unity_release.git --recurse-submodules
 ![Screenshot from 2021-06-16 03-33-39](https://user-images.githubusercontent.com/70574111/122177522-b50bf800-ce53-11eb-9cd0-40f6efda358d.png)
 
 - Copy the eYs3D folder to your project root. If developer did not download the submodule in that folder.
-- Please re-run the following command, and copy the eYs3D folder to your project root. The folder structure would be similar to the following image.
+Please re-run the following sample commands, and copy the eYs3D folder to your project root. The folder structure would be similar to the following image.
 ```
+$ cd eys3d_unity_release
 $ git submodule update --init --recursive
+$ cp -R ./eYs3D/ ~/MyUnityProject/
 ```
 
 ![unity-helper](https://github.com/eYs3D/eys3d_unity_release/assets/70574111/0997e645-ac6b-418d-bf9a-f4442196e1cc)
