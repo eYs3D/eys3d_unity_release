@@ -7,8 +7,8 @@ $ git clone git@github.com:eYs3D/eys3d_unity_release.git --recurse-submodules
 # How to import eYs3D Unity wrapper?
 
 - Plug in eYs3D module to computer
-- Open Unity Editor 2019
-- Import eYs3D_UnitySDK.unitypackage to the current project assets
+- Open Unity Editor 2021.3.24f1
+- Import release.unitypackage to the current project assets
 - Open Color_Depth scene demonstrates image stream from eYs3D modules, and PointCloud scene shows point cloud demo.
 
 ![Screenshot from 2021-06-16 03-32-08](https://user-images.githubusercontent.com/70574111/122177319-7e35e200-ce53-11eb-9d3c-b95a344661a2.png)
