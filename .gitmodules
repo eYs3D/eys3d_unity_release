@@ -1,0 +1,3 @@
+[submodule "eYs3D"]
+	path = eYs3D
+	url = git@github.com:eYs3D/eys3d_config.git
